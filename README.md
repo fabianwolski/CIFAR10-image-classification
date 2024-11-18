@@ -23,8 +23,14 @@ cd CIFAR10-image-classification
 2. Install dependencies:
 ```julia
 using Pkg
-Pkg.activate(".")
+
+Pkg.activate(joinpath(@__DIR__, ".."))
+OR 
+Pkg.activate(".") //you will need to move the file
+
 Pkg.instantiate()
+
+The main notebook file can be found in notebooks/CIFAR10ImageClassification.jl
 ```
 
 ## Usage
