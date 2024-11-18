@@ -5,7 +5,7 @@ A Julia implementation of a Convolutional Neural Network (CNN) for classifying C
 - Supports GPU acceleration using CUDA.jl
 - Achieves ~67% accuracy on the CIFAR10 test set
 - Includes visualization tools for model performance analysis
-
+test
 ## Requirements
 - Julia 1.9+
 - Flux.jl
