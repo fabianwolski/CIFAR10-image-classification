@@ -1,4 +1,51 @@
 A Julia implementation of a Convolutional Neural Network (CNN) for classifying CIFAR10 images using Flux.jl.
+## Snippet Of Notebook (scroll for readme guide below)
+![image](https://github.com/user-attachments/assets/d5cdbd93-b9b4-422a-a42e-9befdc7d9e97)
+
+![image](https://github.com/user-attachments/assets/3365cb2f-4e4d-4ce0-ab72-ca8dc480fbed)
+
+0.657
+0.665
+0.665
+0.643
+0.658
+0.656
+0.652
+0.66
+0.651
+0.646
+0.657
+0.659
+0.666
+0.654
+0.651
+0.653
+0.656
+0.655
+0.663
+0.671
+0.651
+0.658
+0.663
+0.662
+0.675
+0.66
+0.655
+0.669
+0.665
+0.652
+0.646
+0.665
+0.65
+0 653
+
+![image](https://github.com/user-attachments/assets/cec041a0-5070-41be-98c8-e0711796cbe4)
+
+![image](https://github.com/user-attachments/assets/199d5d54-f21e-4f77-8259-19071203a1b4)
+
+![image](https://github.com/user-attachments/assets/9f75a916-8f25-4c73-8fd4-8ca4589888c2)
+
+![image](https://github.com/user-attachments/assets/37e01a66-ebea-4ec5-9541-295c65247fe5)
 
 ## Features
 - Implements a CNN architecture for image classification
